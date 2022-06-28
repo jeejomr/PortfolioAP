@@ -1,0 +1,22 @@
+.row {
+    padding: 5%;
+}
+div {
+    text-align: center;
+}
+/*profile picture style*/
+    #foto {
+        width: 30%;
+        border-radius: 100%;
+        position: absolute;
+        top: 135%;
+        left: 10%;
+    }
+/*name text style*/
+#nombre {
+    margin-top: 2%;
+    font-weight: bold;
+    margin-left:20%;
+
+}
+
